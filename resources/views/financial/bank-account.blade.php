@@ -20,7 +20,7 @@
 <div class="container-fluid">
     <div class="row">
         @foreach ($bankAccount as $item)
-            <div class="col-xl-4 box-col-3 col-lg-12 col-md-4">
+            <div class="col-md-12 col-lg-6">
                 <div class="card o-hidden">
                     <div class="card-body">
                         <div class="ecommerce-widgets media">
